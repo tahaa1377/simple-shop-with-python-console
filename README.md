@@ -1,1 +1,1 @@
-simple-shop-with-python-console
+# simple-shop-with-python-console
